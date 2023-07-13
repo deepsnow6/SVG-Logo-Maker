@@ -6,7 +6,7 @@ Live Link: Demonstration Video:
 
 ## Description
 
-SVG Logo Maker is a command-line application that allows you to generate simple logos for your projects. It generates SVG files based on user input for text, text color, shape, and shape color. With this tool, you can quickly create logos without the need for a graphic designer.
+SVG Logo Maker is a command-line application that allows you to generate simple logos for your projects. It generates SVG files based on user input for text, text color, shape, and shape color. This tool allows you to quickly create logos without the need for a graphic designer.
 
 
 ## Table of Contents
