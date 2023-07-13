@@ -29,7 +29,7 @@ Clone the repository from GitHub and run 'npm install' in terminal to install th
 
 ## Usage
 
-Follow the prompts and enter the desired text, colors, and shape for your logo. The generated logo will be saved as logo.svg in the project directory. Check out the examples directory for some example SVG files generated using this tool.
+Follow the prompts and enter the desired text, colors, and shape for your logo. The generated logo will be saved as logo.svg in the project directory. Check out the examples directory for some example SVG files generated using this tool. Run 'npx jest' to run tests.
 
 ## Contributing
 
