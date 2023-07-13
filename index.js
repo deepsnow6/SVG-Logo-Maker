@@ -52,7 +52,7 @@ function createLogo() {
           break;
       }
 
-      // Save SVG markup to file
+      // Save SVG markup to fil
       fs.writeFile('logo.svg', svgMarkup, err => {
         if (err) {
           console.error('Error saving logo.svg:', err);
