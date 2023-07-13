@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Live Link: Demonstration Video:
+Live Link: Demonstration Video: https://drive.google.com/file/d/1S1Jmi3E__AfxgOzC9-nRgZRE-o_BwHWV/view
 
 ## Description
 
@@ -22,7 +22,6 @@ SVG Logo Maker is a command-line application that allows you to generate simple 
 
 - Generate logos with customizable text, colors, and shapes.
 - Supports shapes such as circle, triangle, and square.
-- Outputs high-quality SVG files that are scalable and lossless.
 
 ## Installation
 
@@ -43,5 +42,5 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Questions
 For any questions or concerns, please reach out to me on GitHub or via email:
 
-GitHub: https://github.com/your-username
-Email: your-email@example.com
+GitHub: https://github.com/deepsnow6
+Email: denirensign@aol.com
